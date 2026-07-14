@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Shivam 👋
 
-<!--
-**Shivam-47/Shivam-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer building distributed systems, payments infrastructure, and real-time data pipelines at scale.
 
-Here are some ideas to get you started:
+- 🔭 Currently: **SDE II @ Blinkit** — seller payments, real-time analytics, search infra, and recommendations
+- 🏗️ Recent work: re-architected a recommendation pipeline serving 30M DAU, built a high-throughput seller payments platform, cut search indexing lag from 20 hours to sub-second at 8K RPS
+- 🎓 IIT Bhubaneswar '21 — Gold Medallist, B.Tech + M.Tech (Dual Degree)
+- 🌱 Exploring AI engineering — agentic systems, MCP, and applied LLM tooling
+- 💬 Ask me about distributed systems design, real-time pipelines, or backend architecture at scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tech Stack**
+
+`Golang` `Python` `C++` · `Kafka` `Apache Pinot` `Elasticsearch` `Redis` `DynamoDB` `PostgreSQL` · `AWS (Lambda, ECS, S3, SQS/SNS)`
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/shivam-handa-1930b216a/) · 📍 India
